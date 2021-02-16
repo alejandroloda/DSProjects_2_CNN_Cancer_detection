@@ -2,3 +2,5 @@
 data
 debug.log
 .git
+model.h5
+objs.pkl
